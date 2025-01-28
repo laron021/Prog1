@@ -22,7 +22,7 @@ The tool is designed to be easy to use and requires no prior knowledge of cybers
 # Quick Setup & Run
 **![Download and Run](https://img.shields.io/badge/Download%20and%20Run-18A303?style=flat-square)**
 ```bash
-git clone https://github.com/laron021/project && cd project && sudo python3 dummy_scan.py
+git clone https://github.com/laron021/Vulnerability-Scanner && cd Vulnerability-Scanner && sudo python3 dummy_scan.py
 ```
 **![Run](https://img.shields.io/badge/Run-18A303?style=flat-square)**
 ```bash
